@@ -4,12 +4,11 @@ Images that link to at least 4 other projects - DONE
 
 A short description of each project and the skills you used to build it 
 
-Contact information - LinkedIn, Github, email
-You'll want employers to be able to find and contact you.
+Contact information - LinkedIn, Github, email  - DONE
 
-At least one example of JavaScript interactivity
+At least one example of JavaScript interactivity - DONE
 
-Put your project in a new GitHub repository on your GitHub account
+Put your project in a new GitHub repository on your GitHub account 
 
 Publish your portfolio on GitHub pages, or with a web hosting company, so that the code reviewers can see your finished work - 
 Make sure you add a link to your project’s URL in the comments section when you submit your project for review.
@@ -28,5 +27,11 @@ Create a breakpoint for tablet displays.
 Link to more than 4 projects.
 Use SVG images for contact information icons.
 Multiple JavaScript interactions.
+
+
+TODO List:
+Add links to all projects - make sure projects have proper github links
+Add images 
+
 
 
